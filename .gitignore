@@ -1,2 +1,5 @@
 # The object file
 *.o
+
+# Input files
+*.txt
