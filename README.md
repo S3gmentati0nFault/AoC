@@ -2,7 +2,7 @@
 
   - day 2 --&nbsp;&nbsp;&nbsp; P1 > :white_check_mark:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;P2 > :no_entry_sign:
 
-  - day 3 --&nbsp;&nbsp;&nbsp; P1 > :soon:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;P2 > :soon:
+  - day 3 --&nbsp;&nbsp;&nbsp; P1 > :white_check_mark:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;P2 > :white_check_mark:
 
   - day 4 --&nbsp;&nbsp;&nbsp; P1 > :soon:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;P2 > :soon:
 
